@@ -44,42 +44,49 @@ Each notebook delves into a specific dataset and highlights key data analytics t
 1. Clone the repository:
    ```bash
    git clone https://github.com/touhid365/VI_INTERNSHIP-OF-DATA-ANALYTICS.git
-   cd VI_INTERNSHIP-OF-DATA-ANALYTICS
+   cd VI_INTERNSHIP-OF-DATA-ANALYTICS 
    
-2.(Optional) Create a virtual environment:
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows
 
-3.Install dependencies:
-pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
+3. Install dependencies:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 
-4.Launch Jupyter Notebook:
-jupyter notebook
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
 
-5.Open a .ipynb file and run the cells to explore the analyses.
+5. Open a .ipynb file and run the cells to explore the analyses. 
+  
 
-📊 Highlights
-Cleaned raw datasets and handled missing values.
 
-Performed EDA: summary stats, distributions, correlations.
 
-Visualized insights through bar charts, box plots, pie charts, etc.
+## 📊 Highlights
 
-Built basic predictive and recommendation models (e.g. crop recommendation).
+- **Cleaned raw datasets and handled missing values.**
 
-Developed compelling dashboards and charts to convey findings clearly.
+- **Performed EDA: summary stats, distributions, correlations.**
 
-🎯 How You Can Use This
-Reference methodologies for educational and professional projects.
+- **Visualized insights through bar charts, box plots, pie charts, etc.**
 
-Reuse and modify scripts for your own datasets.
+- **Built basic predictive and recommendation models (e.g. crop recommendation).**
 
-Experiment with extending models (e.g., classification with scikit-learn).
+- **Developed compelling dashboards and charts to convey findings clearly.**
 
-Integrate insights into portfolio presentations, job applications, or blogs.
+## 🎯 How You Can Use This
+- **Reference methodologies for educational and professional projects.**
 
-📩 Contact & Feedback
+- **Reuse and modify scripts for your own datasets.**
+
+- **Experiment with extending models (e.g., classification with scikit-learn).**
+
+- **Integrate insights into portfolio presentations, job applications, or blogs.**
+
+## 📩 Contact & Feedback
 Have questions, suggestions, or feedback?
 Feel free to contact me at touhidanowar4@gmail.com.
 
